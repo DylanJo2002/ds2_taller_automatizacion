@@ -1,8 +1,7 @@
 name: Test DS2 app
 
 on:
-  pull_request:
-    - opened
+  pull_request: opened
 
 jobs:
   test:
